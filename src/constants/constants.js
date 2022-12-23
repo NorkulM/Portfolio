@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Gericht Restaurant',
     description:"Another beautiful Figma Design exported to React & JavaScript. A great website to use in your Restaurant",
-    image: 'Portfolio/images/2.png',
+    image: '/Portfolio/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/NorkulM/gericht-figma-restaurant',
     visit: 'https://norkulm.github.io/gericht-figma-restaurant/',
