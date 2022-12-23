@@ -47,6 +47,6 @@ export const TimeLineData = [
 ];
 
 export const DummyText =[{
-  text: `My name is Nicollas Martens. I'm a 23 years old, and Computer Science student. My passion for technology and computer started when I was little. I started learning programming in 2014. My uncle introduced me to the Java language, it was complicated at the beginning because I had no background at all. Still,I have managed to overcome the initial struggles. When I was in college, started learning JavaScript. I loved it so much that I knew I wanted to work with it.`,
+  text: `My name is Nicollas Martens. I'm a 23 years old, and Computer Science student. My passion for technology and computer started when I was little. I started learning programming in 2014. My uncle introduced me to Java, it was complicated at the beginning because I had no background at all. Still, I have managed to overcome the initial struggles. Now in college, started learning JavaScript.`,
   img: '/Portfolio/images/profile.png'
 }]
